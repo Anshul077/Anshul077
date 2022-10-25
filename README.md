@@ -1,6 +1,4 @@
-<p align="center" width="100%">
-<img align="center" alt="coding" src="https://imgs.search.brave.com/n0NAUTCMj8AnSpIaQzrL5rCiAWSCj9mhsjX3Pa_zJHU/rs:fit:750:400:1/g:ce/aHR0cHM6Ly93d3cu/YWFscGhhLm5ldC93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMC8x/Mi9mdWxsLXN0YWNr/LWRldmVsb3BtZW50/LmdpZg.gif">
- </p>
+[![MasterHead](https://imgs.search.brave.com/PgZxcRUitWNnKuLjCrhn9CeaxoFMLQZdUEJn6AHBS5k/rs:fit:1200:480:1/g:ce/aHR0cHM6Ly9nb2Rp/Z2l0YWxsYWFnZW5j/aWEuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIwLzA2L3dl/Yi1kZXZlbG9wZXIu/Z2lm.gif)](https://Anshul077.io)
 <h1 align="center">Hi 👋, I'm Anshul Kamal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/FrOhz6OSIWnq4YHmHKUaqDJyfb_r_9qhlgapHALPk-Q/rs:fit:680:428:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzU0L2Uz/LzdkLzU0ZTM3ZDgw/NzRlYmNkZTFkOTZj/NzdkN2IyYTdmMzEw/LmdpZg.gif">
