@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **React Js, MERN , Web DeveDevelopment**
+- 💬 Ask me about **React Js, MERN , Web Development**
 
 - 📫 How to reach me **anshukamal07@gmail.com**
 
