@@ -23,7 +23,7 @@
   
 <h3>
   • 🌐 My Projects:&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://moviefliix.netlify.app/"> <img src="https://denoviz.web.app/assets/img/og.png" width="45" valign="middle"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://moviefliix.netlify.app/"> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/96/netflix_macos_bigsur_icon_189917.png" width="45" valign="middle"></a>&nbsp;&nbsp;&nbsp;&nbsp;
  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </h3>
 
