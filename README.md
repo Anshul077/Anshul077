@@ -31,4 +31,4 @@
 
 [![@anshul77's Holopin board](https://holopin.me/anshul77)](https://holopin.io/@anshul77)
 
-[![Anshul077's github activity graph](https://activity-graph.herokuapp.com/graph?username=anshul077&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/anshul077/github-readme-activity-graph)
+[![Anshul's github activity graph](https://activity-graph.herokuapp.com/graph?username=Anshul077)](https://github.com/Anshul077/github-readme-activity-graph)
