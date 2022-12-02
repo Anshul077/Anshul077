@@ -22,7 +22,7 @@
 
 <p>
   <a align= "center" href="https://github.com/Anshul077">
-   ![snake gif](https://github.com/Anshul077/Anshul077/blob/output/github-contribution-grid-snake.gif)
+        <img width="100%" src="https://raw.githubusercontent.com/Anshul077/Anshul077/output/github-contribution-grid-snake.svg">
     <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Anshul077&count_private=true&show_icons=true&bg_color=0D1117&text_color=FEFEFE&icon_color=1F6FEA&title_color=38D252&border_color=FEFEFE" />
     <img align="right" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Anshul077&theme=github-dark&border=FEFEFE">
   </a>
