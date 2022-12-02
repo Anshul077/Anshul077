@@ -23,12 +23,12 @@
 <p>
   <a align= "center" href="https://github.com/Anshul077">
         <img width="100%" src="https://raw.githubusercontent.com/Anshul077/Anshul077/output/github-contribution-grid-snake.svg">
-    <img height="300px" width="490" src="https://github-readme-stats.vercel.app/api?username=Anshul077&count_private=true&show_icons=true&bg_color=0D1117&text_color=FEFEFE&icon_color=1F6FEA&title_color=38D252&border_color=FEFEFE" />
-    <img align="right" alt= "stats card" height="300px" width="490" src="https://github-readme-streak-stats.herokuapp.com/?user=Anshul077&theme=github-dark&border=FEFEFE">
+    <img height="300px" width="410" src="https://github-readme-stats.vercel.app/api?username=Anshul077&count_private=true&show_icons=true&bg_color=0D1117&text_color=FEFEFE&icon_color=1F6FEA&title_color=38D252&border_color=FEFEFE" />
+    <img align="right" alt= "stats card" height="300px" width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=Anshul077&theme=github-dark&border=FEFEFE">
   </a>
 </p>
 
-<p><img max-width: 100%;/* align-items: center; */margin: auto auto 40px auto;display: block;width: 400px; src="https://github-readme-stats.vercel.app/api/top-langs?username=anshul077&show_icons=true&locale=en&layout=compact&bg_color=0D1117&text_color=FEFEFE&icon_color=1F6FEA&title_color=38D252&border_color=FEFEFE" alt="anshul077" /></p>
+<p><img max-width: 100%; align-items: center; margin: auto auto 50px auto;display: block;width: 400px; src="https://github-readme-stats.vercel.app/api/top-langs?username=anshul077&show_icons=true&locale=en&layout=compact&bg_color=0D1117&text_color=FEFEFE&icon_color=1F6FEA&title_color=38D252&border_color=FEFEFE" alt="anshul077" /></p>
 
 
 
