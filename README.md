@@ -1,7 +1,7 @@
 [![MasterHead](https://imgs.search.brave.com/PgZxcRUitWNnKuLjCrhn9CeaxoFMLQZdUEJn6AHBS5k/rs:fit:1200:480:1/g:ce/aHR0cHM6Ly9nb2Rp/Z2l0YWxsYWFnZW5j/aWEuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIwLzA2L3dl/Yi1kZXZlbG9wZXIu/Z2lm.gif)](https://Anshul077.io)
 <h1 align="center">Hi 👋, I'm Anshul Kamal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img alt="GIF" src="https://github.com/Anshul077/Anshul077/blob/main/hadder.gif?raw=true" width="500"/>  
+<img align="right" alt="Coding" width="400" src  src="https://github.com/Anshul077/Anshul077/blob/main/hadder.gif?raw=true" width="500"/>  
 
 
 - 🔭 I’m currently working on **Food Delivery App**
